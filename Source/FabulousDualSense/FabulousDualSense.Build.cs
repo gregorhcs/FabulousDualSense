@@ -7,7 +7,7 @@ public class FabulousDualSense : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
-		bEnableNonInlinedGenCppWarnings = true;
+		// bEnableNonInlinedGenCppWarnings = true;
 		// UnsafeTypeCastWarningLevel = WarningLevel.Warning;
 
 		PublicDependencyModuleNames.AddRange(new[]

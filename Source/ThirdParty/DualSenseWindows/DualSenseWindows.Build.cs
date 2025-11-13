@@ -8,7 +8,7 @@ public class DualSenseWindows : ModuleRules
 		Type = ModuleType.External;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
-		bEnableNonInlinedGenCppWarnings = true;
+		// bEnableNonInlinedGenCppWarnings = true;
 		// UnsafeTypeCastWarningLevel = WarningLevel.Warning;
 
 		PublicDefinitions.Add("DS5W_USE_LIB");
